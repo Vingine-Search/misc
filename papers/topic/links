@@ -1,0 +1,13 @@
+sentence embeddings:
+  https://github.com/RaRe-Technologies/gensim
+  https://github.com/epfml/sent2vec
+  https://github.com/pdrm83/sent2vec
+  bert using the `[CLS]` token is always an option.
+
+document seg: https://github.com/chschock/textsplit
+
+sector: https://paperswithcode.com/paper/sector-a-neural-model-for-coherent-topic
+
+meeting: https://paperswithcode.com/paper/unsupervised-topic-segmentation-of-meetings (bert)
+
+5yo list: https://github.com/sedflix/awesome-topic-segmentation
